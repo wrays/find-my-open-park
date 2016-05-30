@@ -1,4 +1,4 @@
-# find-my-open-park
+# Find My Open Park
 
 Austin has 277 public parks that sometimes are inaccessible. This project seeks to make park closure information more transparent.
 
