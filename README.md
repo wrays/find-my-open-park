@@ -1,17 +1,21 @@
 # Find My Open Park
 
-The README is for the Find My Open Park project that was first proposed for [ATX Hack for Change 2016](https://github.com/atxhack4change/2016-project-proposals).
+This README is for the Find My Open Park project that was first proposed for [ATX Hack for Change 2016](https://github.com/atxhack4change/2016-project-proposals).
 
 ## Index
 * [Project Concept](#project-concept)
+* [Related Projects](#related-projects)
 * [Team Members](#team-members)
-
 
 ## <a name="project-concept"></a>Project Concept
 
 * [Initial Find My Open Park Proposal](https://github.com/atxhack4change/2016-project-proposals/issues/27)
 
+## <a name="related-projects"></a>Related Projects
 
+* [Austin Green Map on Open Austin](http://www.open-austin.org/austingreenmap/)
+* [Austin Green Map on GitHub](https://github.com/open-austin/austingreenmap)
+* [Austin Green Map on iTunes](https://itunes.apple.com/us/app/green-map-interactive-map/id1022734155?mt=8)
 
 
 ## <a name="team-members"></a>Team Members
