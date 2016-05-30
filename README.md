@@ -11,6 +11,12 @@ This README is for the Find My Open Park project that was first proposed for [AT
 
 * [Initial Find My Open Park Proposal](https://github.com/atxhack4change/2016-project-proposals/issues/27)
 
+### Problem This Project Addresses
+Austin public parks are sometimes inaccessible due to scheduled events, maintenance, construction, or weather events. 
+
+### Project Goal
+This project seeks to make park closure information more transparent.
+
 ## <a name="related-projects"></a>Related Projects
 
 * [Austin Green Map on Open Austin](http://www.open-austin.org/austingreenmap/)
