@@ -16,7 +16,7 @@ This README is for the Find My Open Park project that was first proposed for [AT
 Austin public parks are sometimes inaccessible due to scheduled events, maintenance, construction, or weather events. 
 
 #### Project Goal
-This project seeks to make Austin public park closure information more transparent ans accessible.
+This project seeks to make Austin public park closure information more transparent ans accessible. With Austin growing as fast as it is, with a finite space for urban parks and demand for use of that park space growing, it's important to have an improved system for people to have better information about when parks are available for use.
 
 ## <a name="related-project"></a>Related Project
 Find My Open Park builds on the Austin Green Map
@@ -27,16 +27,30 @@ Find My Open Park builds on the Austin Green Map
 
 ## <a name="park-data"></a>Austin Park Information and Data
 
+#### data.austintexas.gov links
+
+- [City of Austin Parks](https://data.austintexas.gov/dataset/City-Of-Austin-Parks/99qw-4ixs)
+- [Urban Trails](https://data.austintexas.gov/Government/Urban-Trails/bxbe-ndaw)
+- [Pool Schedule](https://data.austintexas.gov/Neighborhood/Pool-Schedule2015/xaxa-886r)
+
+#### City of Austin Parks and Recreation Department Links
+- [Parks and Recreation Closure Information](http://austintexas.gov/parkclosures)
+- [COA Parks Grid Map & List](http://www.austintexas.gov/sites/default/files/files/Parks/GIS/Inventory/COA_Parks_Grid_Map_and_List.pdf)
+- [Monthly GIS Parkland Inventory Report](http://www.austintexas.gov/sites/default/files/files/Parks/GIS/Inventory/Austin_PARD_Has.pdf)
+
+#### News Stories about Park Closures
+- [Update: Greenbelt Closure Continues](http://www.austinchronicle.com/daily/news/2015-05-12/update-greenbelt-closure-continues/)
+- [Deep Eddy Pool closed for maintenance](http://www.statesman.com/news/news/deep-eddy-pool-closed-for-maintenance-monday-until/nqKfW/)
 
 ## <a name="team-members"></a>Team Members
-* Stefan Wray [@wrays](https://github.com/wrays)
+* Stefan Wray [GitHub:@wrays](https://github.com/wrays) | [LinkedIn](https://www.linkedin.com/in/stefanwray)
 * Pam Thompson
 
 ##<a name="project-consultants"</a>Project Consultants
+* Luqmaan Dawoodjee 
 
 
 
-Austin has 277 public parks that sometimes are inaccessible. This project seeks to make park closure information more transparent.
 
 ## What is your project concept or idea? What challenge or opportunity will it solve?
 
@@ -78,43 +92,7 @@ _**Austin's Zilker Park during the ACL Festival**_
 
 Source: SteveHopson at English Wikipedia [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons
 
-## Issue area(s) relevant to your project idea:
 
-- Arts & Culture
-- Children & Youth
-- Environment & Sustainability
-- Health
-- Mobility/Transportation
-- Neighborhoods
-- Open Government/Transparency
-- Public Safety
-
-## What is the current state of your project idea?
-
-- I understand the **challenge** well but don’t yet have ideas for a solution
-AND
-- I have an idea or **concept** of a solution, but have not yet prototyped or tested it
-
-## Tell us more about the current state of your project idea.
-
-The current state of this project has not evolved beyond the description on this page.
-
-### Do you have any links to news articles, text, mockups, code, or data?
-
-Example data.austintexas.gov links
-
-- [City of Austin Parks](https://data.austintexas.gov/dataset/City-Of-Austin-Parks/99qw-4ixs)
-- [Urban Trails](https://data.austintexas.gov/Government/Urban-Trails/bxbe-ndaw)
-- [Pool Schedule](https://data.austintexas.gov/Neighborhood/Pool-Schedule2015/xaxa-886r)
-
-City of Austin Parks and Recreation Department Links
-- [Parks and Recreation Closure Information](http://austintexas.gov/parkclosures)
-- [COA Parks Grid Map & List](http://www.austintexas.gov/sites/default/files/files/Parks/GIS/Inventory/COA_Parks_Grid_Map_and_List.pdf)
-- [Monthly GIS Parkland Inventory Report](http://www.austintexas.gov/sites/default/files/files/Parks/GIS/Inventory/Austin_PARD_Has.pdf)
-
-Example News Stories about Park Closures
-- [Update: Greenbelt Closure Continues](http://www.austinchronicle.com/daily/news/2015-05-12/update-greenbelt-closure-continues/)
-- [Deep Eddy Pool closed for maintenance](http://www.statesman.com/news/news/deep-eddy-pool-closed-for-maintenance-monday-until/nqKfW/)
 
 ## Tell us about yourself. 
 
@@ -125,9 +103,6 @@ Example News Stories about Park Closures
 - Avid park user for cycling, walking, and hiking
 - [LinkedIn](https://www.linkedin.com/in/stefanwray)
 
-**Why important challenge?**
-
-With Austin growing as fast as it is, with a finite space for urban parks, and with demand for use of that park space growing, it's important to have an improved system to help people have better information about when parks are available for use.
 
 ### Are you representing a group in submitting this project idea? 
 
