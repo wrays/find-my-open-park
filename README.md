@@ -5,6 +5,7 @@ This README is for the Find My Open Park project that was first proposed for [AT
 ## Index
 * [Project Concept](#project-concept)
 * [Related Projects](#related-projects)
+* [Austin Park Information and Data](#park-data)
 * [Team Members](#team-members)
 
 ## <a name="project-concept"></a>Project Concept
@@ -22,6 +23,8 @@ This project seeks to make Austin public park closure information more transpare
 * [Austin Green Map on Open Austin](http://www.open-austin.org/austingreenmap/)
 * [Austin Green Map on GitHub](https://github.com/open-austin/austingreenmap)
 * [Austin Green Map on iTunes](https://itunes.apple.com/us/app/green-map-interactive-map/id1022734155?mt=8)
+
+## <a name="park-data"></a>Austin Park Information and Data
 
 
 ## <a name="team-members"></a>Team Members
