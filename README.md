@@ -94,18 +94,4 @@ Source: SteveHopson at English Wikipedia [CC BY 3.0 (http://creativecommons.org/
 
 
 
-## Tell us about yourself. 
 
-### What is your background? Why is this challenge important to you? 
-
-**Background:**
-- Resident of Austin for 21 years
-- Avid park user for cycling, walking, and hiking
-- [LinkedIn](https://www.linkedin.com/in/stefanwray)
-
-
-### Are you representing a group in submitting this project idea? 
-
-No. I'm technically not representing a group when submitting this project. This project needs a group. 
-
-I am the co-founder of a neighborhood group in Montopolis that secured funding to develop a natural surface trail but that is not connected to this. This project could potentially be linked to a group or have it be under a group's umbrella.
