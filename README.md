@@ -43,11 +43,11 @@ Find My Open Park builds on the Austin Green Map
 - [Deep Eddy Pool closed for maintenance](http://www.statesman.com/news/news/deep-eddy-pool-closed-for-maintenance-monday-until/nqKfW/)
 
 ## <a name="team-members"></a>Team Members
-* Stefan Wray [GitHub:@wrays](https://github.com/wrays) | [LinkedIn](https://www.linkedin.com/in/stefanwray)
+* Stefan Wray [@wrays](https://github.com/wrays) | [LinkedIn](https://www.linkedin.com/in/stefanwray)
 * Pam Thompson
 
 ##<a name="project-consultants"</a>Project Consultants
-* Luqmaan Dawoodjee 
+* Luqmaan Dawoodjee [@luqmaan](https://github.com/luqmaan)
 
 
 
@@ -85,12 +85,6 @@ The "Find My Open Park" tool would also allow park goers to:
 - Find nearest park to them that is open and accessible that day
 - Search for parks by park features
 
-### Do you have photos of them? Or quotes?
-
-![acl2009sbh](https://cloud.githubusercontent.com/assets/18127194/15457509/388909c8-2050-11e6-9f02-31d8506ab573.jpg)
-_**Austin's Zilker Park during the ACL Festival**_
-
-Source: SteveHopson at English Wikipedia [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons
 
 
 
