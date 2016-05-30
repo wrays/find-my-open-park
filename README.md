@@ -16,7 +16,7 @@ This README is for the Find My Open Park project that was first proposed for [AT
 Austin public parks are sometimes inaccessible due to scheduled events, maintenance, construction, or weather events. 
 
 #### Project Goal
-This project seeks to make Austin public park closure information more transparent ans accessible. With Austin growing as fast as it is, with a finite space for urban parks and demand for use of that park space growing, it's important to have an improved system for people to have better information about when parks are available for use.
+This project seeks to make Austin public park closure information more transparent and accessible. With Austin growing as fast as it is, with a finite space for urban parks and demand for use of that park space growing, it's important to have an improved system for people to have better information about when parks are available for use.
 
 ## <a name="related-project"></a>Related Project
 Find My Open Park builds on the Austin Green Map
