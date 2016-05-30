@@ -1,11 +1,16 @@
 # Find My Open Park
 
+The README is for the Find My Open Park project that was first proposed for ATX Hack for Change 2016.
+
 ## Index
 * [Project Concept](#project-concept)
 * [Team Members](#team-members)
 
 
 ## <a name="project-concept"></a>Project Concept
+
+* [Initial Find My Open Park Proposal](https://github.com/atxhack4change/2016-project-proposals/issues/27)
+
 
 
 
