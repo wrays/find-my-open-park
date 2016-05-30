@@ -1,5 +1,12 @@
 # Find My Open Park
 
+## <a name="team-members"></a>Team Members
+* Stefan Wray [@wrays](https://github.com/wrays)
+
+
+
+
+
 Austin has 277 public parks that sometimes are inaccessible. This project seeks to make park closure information more transparent.
 
 ## What is your project concept or idea? What challenge or opportunity will it solve?
