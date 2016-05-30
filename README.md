@@ -30,6 +30,7 @@ Find My Open Park builds on the Austin Green Map
 
 ## <a name="team-members"></a>Team Members
 * Stefan Wray [@wrays](https://github.com/wrays)
+* Pam Thompson
 
 ##<a name="project-consultants"</a>Project Consultants
 
