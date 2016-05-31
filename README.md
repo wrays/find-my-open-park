@@ -25,7 +25,7 @@ Find My Open Park builds on the Austin Green Map
 * [Austin Green Map on GitHub](https://github.com/open-austin/austingreenmap)
 * [Austin Green Map on iTunes](https://itunes.apple.com/us/app/green-map-interactive-map/id1022734155?mt=8)
 * [Austin Park Equity on GitHub](https://github.com/open-austin/austin-park-equity)
-* [Austin Park Equity URL|(http://austinparkequity.com)
+* [Austin Park Equity URL](http://austinparkequity.com)
 
 ## <a name="park-data"></a>Austin Park Information and Data
 
