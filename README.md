@@ -19,13 +19,14 @@ Austin public parks are sometimes inaccessible due to scheduled events, maintena
 This project seeks to make Austin public park closure information more transparent and accessible. With Austin growing as fast as it is, with a finite space for urban parks and demand for use of that park space growing, it's important to have an improved system for people to have better information about when parks are available for use.
 
 ## <a name="related-projects"></a>Related Austin Park Projects
-Find My Open Park builds on the Austin Green Map
+Find My Open Park builds on these related projects
 
 * [Austin Green Map on Open Austin](http://www.open-austin.org/austingreenmap/)
 * [Austin Green Map on GitHub](https://github.com/open-austin/austingreenmap)
 * [Austin Green Map on iTunes](https://itunes.apple.com/us/app/green-map-interactive-map/id1022734155?mt=8)
 * [Austin Park Equity on GitHub](https://github.com/open-austin/austin-park-equity)
 * [Austin Park Equity URL](http://austinparkequity.com)
+* [Austin Park Data](https://github.com/daniellillja/AustinParksData)
 
 ## <a name="park-data"></a>Austin Park Information and Data
 
