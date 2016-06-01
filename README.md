@@ -24,21 +24,16 @@ This project seeks to:
 ## <a name="park-data"></a>Austin Park Information and Data
 
 #### Data Portal sources
-
-- [City Stage](http://www.austintexas.gov/department/citystage)
 - [City of Austin Parks](https://data.austintexas.gov/dataset/City-Of-Austin-Parks/99qw-4ixs)
 - [Urban Trails](https://data.austintexas.gov/Government/Urban-Trails/bxbe-ndaw)
 - [Pool Schedule](https://data.austintexas.gov/Neighborhood/Pool-Schedule2015/xaxa-886r)
 
-#### www.austintexas.gov sources
+#### Web sources
+- [City Stage](http://www.austintexas.gov/department/citystage)
 - [Parks and Recreation Closure Information](http://austintexas.gov/parkclosures)
 - [COA Parks Grid Map & List](http://www.austintexas.gov/sites/default/files/files/Parks/GIS/Inventory/COA_Parks_Grid_Map_and_List.pdf)
 - [Monthly GIS Parkland Inventory Report](http://www.austintexas.gov/sites/default/files/files/Parks/GIS/Inventory/Austin_PARD_Has.pdf)
 - [ATX Floods](https://www.atxfloods.com)
-
-#### News Stories about Park Closures
-- [Update: Greenbelt Closure Continues](http://www.austinchronicle.com/daily/news/2015-05-12/update-greenbelt-closure-continues/)
-- [Deep Eddy Pool closed for maintenance](http://www.statesman.com/news/news/deep-eddy-pool-closed-for-maintenance-monday-until/nqKfW/)
 
 ## <a name="related-projects"></a>Related Austin Park Projects
 Find My Open Park builds on these related projects
