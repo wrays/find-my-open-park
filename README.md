@@ -4,8 +4,8 @@ This README is for the Find My Open Park project that was first proposed for [AT
 
 ## Index
 * [Project Concept](#project-concept)
-* [Related Austin Park Projects](#related-projects)
 * [Austin Park Information and Data](#park-data)
+* [Related Austin Park Projects](#related-projects)
 * [Team Members](#team-members)
 
 ## <a name="project-concept"></a>Project Concept
@@ -13,10 +13,32 @@ This README is for the Find My Open Park project that was first proposed for [AT
 * [Initial Detailed Find My Open Park Proposal](https://github.com/atxhack4change/2016-project-proposals/issues/27)
 
 #### Problem This Project Addresses
-Austin public parks are sometimes inaccessible due to scheduled events, maintenance, construction, or weather events. 
+Austin public parks and their amenities are sometimes less accessible due to special events, weather events, scheduled maintenance, construction, and other activities. Although information about some of the disruptions of normal use or closures appears on the City's web site, there is not a comprehensive one-stop source for Austin park users.
 
 #### Project Goal
-This project seeks to make Austin public park closure information more transparent and accessible. With Austin growing as fast as it is, with a finite space for urban parks and demand for use of that park space growing, it's important to have an improved system for people to have better information about when parks are available for use.
+This project seeks to: 
+* 1) aggregate data about special events, weather events, scheduled maintenance, construction, and other activities happening in and around Austin public parks,
+* 2) combine that data with information about park amenities and regular hours of operation, and
+* 3) create a map-based tool to explore this data and information on both desktop and mobile platforms. 
+
+## <a name="park-data"></a>Austin Park Information and Data
+
+#### Data Portal sources
+
+- [City Stage](http://www.austintexas.gov/department/citystage)
+- [City of Austin Parks](https://data.austintexas.gov/dataset/City-Of-Austin-Parks/99qw-4ixs)
+- [Urban Trails](https://data.austintexas.gov/Government/Urban-Trails/bxbe-ndaw)
+- [Pool Schedule](https://data.austintexas.gov/Neighborhood/Pool-Schedule2015/xaxa-886r)
+
+#### www.austintexas.gov sources
+- [Parks and Recreation Closure Information](http://austintexas.gov/parkclosures)
+- [COA Parks Grid Map & List](http://www.austintexas.gov/sites/default/files/files/Parks/GIS/Inventory/COA_Parks_Grid_Map_and_List.pdf)
+- [Monthly GIS Parkland Inventory Report](http://www.austintexas.gov/sites/default/files/files/Parks/GIS/Inventory/Austin_PARD_Has.pdf)
+- [ATX Floods](https://www.atxfloods.com)
+
+#### News Stories about Park Closures
+- [Update: Greenbelt Closure Continues](http://www.austinchronicle.com/daily/news/2015-05-12/update-greenbelt-closure-continues/)
+- [Deep Eddy Pool closed for maintenance](http://www.statesman.com/news/news/deep-eddy-pool-closed-for-maintenance-monday-until/nqKfW/)
 
 ## <a name="related-projects"></a>Related Austin Park Projects
 Find My Open Park builds on these related projects
@@ -27,23 +49,6 @@ Find My Open Park builds on these related projects
 * [Austin Park Equity on GitHub](https://github.com/open-austin/austin-park-equity)
 * [Austin Park Equity URL](http://austinparkequity.com)
 * [Austin Park Data](https://github.com/daniellillja/AustinParksData)
-
-## <a name="park-data"></a>Austin Park Information and Data
-
-#### data.austintexas.gov links
-
-- [City of Austin Parks](https://data.austintexas.gov/dataset/City-Of-Austin-Parks/99qw-4ixs)
-- [Urban Trails](https://data.austintexas.gov/Government/Urban-Trails/bxbe-ndaw)
-- [Pool Schedule](https://data.austintexas.gov/Neighborhood/Pool-Schedule2015/xaxa-886r)
-
-#### City of Austin Parks and Recreation Department Links
-- [Parks and Recreation Closure Information](http://austintexas.gov/parkclosures)
-- [COA Parks Grid Map & List](http://www.austintexas.gov/sites/default/files/files/Parks/GIS/Inventory/COA_Parks_Grid_Map_and_List.pdf)
-- [Monthly GIS Parkland Inventory Report](http://www.austintexas.gov/sites/default/files/files/Parks/GIS/Inventory/Austin_PARD_Has.pdf)
-
-#### News Stories about Park Closures
-- [Update: Greenbelt Closure Continues](http://www.austinchronicle.com/daily/news/2015-05-12/update-greenbelt-closure-continues/)
-- [Deep Eddy Pool closed for maintenance](http://www.statesman.com/news/news/deep-eddy-pool-closed-for-maintenance-monday-until/nqKfW/)
 
 ## <a name="team-members"></a>Team Members
 * Stefan Wray [@wrays](https://github.com/wrays) | [LinkedIn](https://www.linkedin.com/in/stefanwray)
