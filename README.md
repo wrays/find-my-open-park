@@ -24,7 +24,7 @@ This project seeks to:
 
 ## <a name="use-cases"></a>Use Cases
 
-* 1) I want to ride my bike at fave park, but it's a Saturday. Are there any events or closures I should know about before I go?
+* 1) I want to ride my bike at my favorite park, but it's a Saturday. Are there any events or closures I should know about before I go?
 * 2) I am at my new friend's house and we want to go on a hike. What parks are near us with good traits?
 * 3) I'm at the park and something is broken. I want to let people know.
 
