@@ -4,6 +4,7 @@ This README is for the Find My Open Park project that was first proposed for [AT
 
 ## Index
 * [Project Concept](#project-concept)
+* [Use Cases](#use-cases)
 * [Austin Park Information and Data](#park-data)
 * [Related Austin Park Projects](#related-projects)
 * [Team Members](#team-members)
@@ -20,6 +21,12 @@ This project seeks to:
 * 1) aggregate data about special events, weather events, scheduled maintenance, construction, and other activities happening in and around Austin public parks,
 * 2) combine that data with information about park amenities and regular hours of operation, and
 * 3) create a map-based tool to explore this data and information on both desktop and mobile platforms. 
+
+## <a name="use-cases"></a>Use Cases
+
+* 1) I want to ride my bike at fave park, but it's a Saturday. Are there any events or closures I should know about before I go?
+* 2) I am at my new friend's house and we want to go on a hike. What parks are near us with good traits?
+* 3) I'm at the park and something is broken. I want to let people know.
 
 ## <a name="park-data"></a>Austin Park Information and Data
 
