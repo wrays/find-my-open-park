@@ -45,9 +45,9 @@ Find My Open Park builds on these related projects on GitHub
 ## <a name="team-members"></a>Team Members
 * Stefan Wray [@wrays](https://github.com/wrays) | [LinkedIn](https://www.linkedin.com/in/stefanwray)
 * Pam Thompson
-
-##<a name="project-consultants"</a>Project Consultants
 * Luqmaan Dawoodjee [@luqmaan](https://github.com/luqmaan)
+* Hailey Pate [@haileypate](https://github.com/haileypate)
+* TJ
 
 
 
