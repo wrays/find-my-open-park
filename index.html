@@ -30,7 +30,6 @@
           accessToken: 'pk.eyJ1Ijoic3RlZmFud3JheSIsImEiOiJjaXBmdnl0bmUwMDAwdGxub2F5bTk2OG96In0.rk52OWFNs4iXGwcmoFMpBA'
       }).addTo(map);
 
-
     //TRAILS
       //var style = {fillColor: '#00cc00', color:'#00cc00'};
 
@@ -42,7 +41,6 @@
 
         //}}).addTo(map);
       //});
-
 
     //PARKS
       // add style to polygons
@@ -59,10 +57,6 @@
           layer.bindPopup("<strong>" + feature.properties.park_name + "</strong><br/>" + "Type: " + feature.properties.park_type + "<br/>" + "Managed As: " + feature.properties.management + "<br/>" + "Acres: " + acre + "<br/>" + "Status: " + feature.properties.park_statu + "<br/>" + "Year Open: " + feature.properties.year_open + "<br/>" + "Address: " + feature.properties.street_num + " " + feature.properties.street_nam + " " + feature.properties.street_typ);
         }}).addTo(map);
       });
-
-
-
-
 
       function onLocationFound(e) {
           //var radius = e.accuracy / 2;
